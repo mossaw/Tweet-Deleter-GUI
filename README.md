@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ### キーの取得方法（ざっくり）
 
-1. X Developer Portal にログイン  
+1. X Developer Portal https://developer.x.com/en/portal/dashboard にログイン  
 2. プロジェクト & アプリを作成  
 3. 「Keys and tokens」から以下をコピーして保存しておく  
 
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 #### 手順：
 
 1. Bearer Token を用意する  
-2. サーバーを起動  
+2. サーバーを起動
 
 ```bash
 python fetch_tweets_app.py
@@ -107,3 +107,4 @@ python app.py
 
 > 本ツールの使用によって生じたいかなる損害や不利益について、作者は責任を負いません。  
 > 利用者自身の責任で使用してください。
+
